@@ -1,0 +1,3 @@
+Establish connection to Mongo
+Create CSV file with the following data: town_name, county, image_url, wiki_link
+Import CSV into database using Mongo compass
